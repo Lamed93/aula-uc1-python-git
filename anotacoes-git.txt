@@ -35,3 +35,5 @@ git add outro-arquivo.py - adicionou para um arquivo específico.
 
 git add . - adiciona todos os arquivos do diretório.
 
+q - sai do log.
+
