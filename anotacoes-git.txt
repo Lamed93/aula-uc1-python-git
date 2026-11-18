@@ -15,5 +15,23 @@ Github é o repositório de versionamentos do Git
 
 Comando para iniciar o git, no Git Bash
 
-git init
+Comandos de inicialização
+
+git init - inicia o git.
+
+git log - mostra o log dos commits ou versionamentos.
+
+git status - mostra o status do git.
+
+git commit -m "Alterando a mensagem do arquivo." - realizando commit ou subindo versão, com uma mensagem de indicação, do que foi feito.
+
+git config --global user.name - ver quem é o usuário.
+
+git config --global user.name "Gabriel Brum" - colocando o usuário em aspas.
+
+git config --global user.email - ver e-mail cadastrado.
+
+git add outro-arquivo.py - adicionou para um arquivo específico.
+
+git add . - adiciona todos os arquivos do diretório.
 
