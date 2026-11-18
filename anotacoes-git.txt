@@ -1,0 +1,19 @@
+Git - Anotações
+
+
+Site para instalação
+
+https://git-scm.com/
+
+Comando para ver se está instalado
+
+git --version
+
+Git é o sistema de versionamento
+
+Github é o repositório de versionamentos do Git
+
+Comando para iniciar o git, no Git Bash
+
+git init
+
